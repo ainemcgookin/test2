@@ -1,0 +1,42 @@
+body { 
+	background-color: white;}
+h1 { 
+	color: Blue;
+	text-align: center;
+	font-family: 'Abril Fatface', cursive;}
+div { 
+	border: 4px solid;
+	color: Blue;
+	background-color: AliceBlue;
+	/**margin: auto;}**/}
+div.2 { 
+	border: 4px solid;
+	height: 100px;
+	width: 100%;
+	color: Blue;
+	background-color: AliceBlue;}
+div.3 { 
+	border: 4px solid;
+	height: 100px;
+	width: 50%;
+	color: Blue;
+	background-color: AliceBlue;
+	float: left;}
+div.4 { 
+	border: 4px solid;
+	height: 100px;
+	width: 50%;
+	color: Blue;
+	background-color: AliceBlue;
+	float: right;}
+p.a { 
+	font-family: 'Abril Fatface', cursive;
+	color: Blue;
+	text-align: center;} 
+p.b { 
+	color: Blue;
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	font-size: 150%}
+/**img { 
+display: block;}**/
